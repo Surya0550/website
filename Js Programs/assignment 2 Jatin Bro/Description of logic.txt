@@ -1,0 +1,39 @@
+//problem statement 1
+question 1.1)
+In question I have created one arrow function checkLogin then passed parameter email,password.
+then used for of loop to get whole object and try to access key with help of dot operator.and changed syntax of simple javascript to ES6 syntax.
+
+
+question 1.2)I have create arrow funcction which name is bubble_sort and passed a parameter and changed syntax of simple javascript to ES6 programming syntax.
+
+//logic of functions used in assignment.
+
+//problem statement 2
+question 2.1)creating arrow function takeSeasonNumber to take parameter seasonNumber and episodeNumber.
+
+Then I used for of loop for iterating through array of object through episode.
+Then perform check by comparing season Number and episode Number is equal to passing paramter or not.
+if condition is matched then   print all the information about particular episode by comparing.
+otherwise perform else part.
+input the season Number.
+input the episode Number.
+
+question 2.2)creating the arrow function takeAnyId and passing the episodeIds parameter through that.
+using for of loop for iterating through object in  episode array.
+comparing by passing episodeIds parameter and actual id of that episode.if it is matched then print all the information.
+otherwise perform else part.
+input the episodeIds.
+calling the function takeAnyId by passing episodeIds argument.
+
+question 2.3)//creating the arrow function search by passsing name parameter.
+using for of loop for iterating through object of episodes array.
+then check for comparing if passing parameter name is equal to name if condition is matched print information of that episode.
+then using break the loop if condition is matched , it will not iterate further.
+if conditioned is not matched then perform else part. 
+
+
+
+
+
+
+

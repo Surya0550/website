@@ -1,0 +1,38 @@
+Logic for checkLogin(js) file:
+
+Here, the code is changed into ES6 in the following way:
+1.var is replaced by let.
+2.The given function is changed to Arrow Function.
+3.Default parameters are set for email and password.
+4.For of loop is used in place of for in loop and variables are checked as suitble for the change.
+5.As described above, the given basic javascript file is changed to ES6.
+
+Logic for bubbleSort(js) file:
+
+Here, the code is changed into ES6 in the following way:
+1.var is replaced by let.
+2.The given function is changed to Arrow Function.
+3.As described above, the given basic javascript file is changed to ES6.
+
+Logic for bigBangDataset(js) file:
+
+For first function:
+This function takes seasonNumber and episodeNumber as inputs.
+the first loop i.e., for of loop traverses among whole episodes and the if
+condition present in that loop checks if any episode matches the given inputs or not.
+If matched, will print that episode information.
+
+For second function:
+This function takes episodeId as input and it is associated with REST. Hence, numerous episode ids can be given.
+The received episodeIds are collected into a new array.
+For of loop starts and it traverses whole episodes.
+There is another for of loop in the first for of loop to check whether the list of episodeIds matches with
+above for of variable of episodes or not.
+The if condition in second for of loop checks the required condition as said above.
+Then it prints the matched episodesInfo.
+
+For third function:
+This function takes episodeName as input.
+For of loop here traverses all the episodes.
+The if condition in for of loop checks if any episode matches with the input or not.
+If matched, it is printed.

@@ -1,0 +1,32 @@
+Logic for pokemonFunctions(js) file:
+
+For first function:
+The first for loop traverses the whole dataset till the length of pokemon objects(i.e., 151)
+Next, the if condition checks whether the name is there or not
+Then, when the name is found, it is  printed using console.
+
+
+For second function:
+The first for loop is to traverse whole dataset for pokemon objects.
+In this loop, the if condition checks whether the next_evolution field exists in the pokemon object or not.
+If it is there, then there is a second for loop, which is required to traverse in elements of next_evolution.
+When the given name matches the name field of next_evolution, it prints the name to console.
+In this way, for every match in name, it gets printed.
+
+
+For third function:
+The functioning of this function is as same as above function, except for which in first for loop,
+there is aan if condition to check next_evolution. But here, no such condition is required as weakness is there for every pokemon.
+The given weakness is matched with weaknesses of pokemons and if they have it, then it gets printed to console.
+
+
+
+
+
+Logic for mobilesComputing datastore(json) file:
+
+In this datastore, Mobiles and Computing category is chosen.
+In this category, there are four sections:Mobiles, Laptops, Printers & HardDisks.
+Each section consists of four models which will give about their description in form of specs, rating etc.
+All these sections comprise this datastore.
+

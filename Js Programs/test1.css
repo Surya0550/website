@@ -1,0 +1,114 @@
+:root {
+	font-size: 20px;
+}
+
+body {
+	 background-color: white;
+	 margin: 1vh 1vw 1vh 1vw;
+	 padding: 3px;
+}
+
+.image{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	border-radius: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50vw;
+	height: 60vh;
+}
+
+.base{
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+	color: black;
+	font-family: "Playfair Display" ,serif;
+	font-size: 3rem;
+	font-weight: 700;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 5px;
+}
+
+.base .sub-base{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	color :#35eea4;
+	font-family: "Playfair Display" ,serif;
+	font-size: 1.5rem;
+	font-weight: 200;
+	font-style: italic;
+	margin: 1vh 1vw 1vh 1vw;
+	padding: 5px;
+}
+
+.base .sub-base .sub-heading button{
+	text-align: left;
+	color :#35eea4;
+	border-radius: 5px;
+	background-color: #2c2c2c;
+	border :none;
+	font-family: "Istok Web", sans-serif;
+	font-size: 0.8rem;
+    letter-spacing: 8px;
+    margin-top: 1vh;
+    padding: 10px;
+    text-transform: uppercase;
+    transition: box-shadow 0.3s linear 0.1s;
+}
+
+.base .sub-base .sub-heading button:hover{
+	cursor: pointer;
+    box-shadow: inset 0 0 10px #35eea4;
+}
+
+.new .para{
+  color: #2c2c2c;
+  font-family: "Istok Web", sans-serif;
+  padding: 5vw 5vw 5vw 0;
+}
+
+.icon-group {
+  margin-top: 20px; }
+  .icon-group .icon {
+    margin-right: 10px;
+    width: 25px; }
+
+.new {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 5vh;
+}
+
+.new .image2{
+	border: 1px solid #35eea4;
+    border-radius: 5px;
+    box-shadow: 0px 3px 20px 2px #2c2c2c;
+    width: 20vw;
+}
+
+
+@media only screen and (max-width: 725px)
+{
+	.new{
+		flex-direction: column;
+	}
+
+	.image{
+		width: 60vw;
+		height: 25vh;
+	}
+
+	.new .image_g{
+		order: -1;
+	}
+
+	.new .image2{
+		width: 60vw;
+	}
+
+}

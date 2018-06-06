@@ -1,0 +1,236 @@
+{
+	"Mobiles & Computing":[{
+				"Mobiles":[{
+						"mobile_name": "Note 5" ,
+						"display_type": "Full-view" ,
+						"screen_to-body_ratio": "89%" ,
+						"mobile_category": "Beauty Phone" ,
+						"camera_type": "Dual Camera" ,
+						"main_features": [
+							"12MP+5MP Camera",
+							"5.99in screen with 1080 X 2160 pixels",
+							"6GB RAM with Snapdragon 636",
+							"4000MAh Battery"
+						],
+						"Buy_Back_Guarantee_Value": 149 ,
+						"Rating": 4.6 ,
+						"Cost": 13999
+				},
+				{
+						"mobile_name": "A1" ,
+						"display_type": "Normal" ,
+						"screen_to-body_ratio": "70%" ,
+						"mobile_category": "Camera Phone" ,
+						"camera_type": "Dual Camera" ,
+						"main_features": [
+							"12MP+12MP Camera",
+							"5.5in screen with 1080 X 1920 pixels",
+							"4GB RAM with Snapdragon 625",
+							"3080MAh Battery"
+						],
+						"Buy_Back_Guarantee_Value": 129 ,
+						"Rating": 4.4 ,
+						"Cost": 12999
+				},
+				{
+						"mobile_name": "P20 Pro" ,
+						"display_type": "Full-view with notch" ,
+						"screen_to-body_ratio": "82%" ,
+						"mobile_category": "Beauty & Camera Phone" ,
+						"camera_type": "Triple Camera" ,
+						"main_features": [
+							"40MP+20MP+8MP Camera",
+							"6.1in screen with 1080 X 2240 pixels",
+							"6GB RAM with Highsilicon Kirin 970",
+							"4000MAh Battery"
+						],
+
+						"Rating": 4.2 ,
+						"Cost": 64999
+				},
+				{
+						"mobile_name": "Pixel 2 XL" ,
+						"display_type": "P-OLED Display" ,
+						"screen_to-body_ratio": "76.4%" ,
+						"mobile_category": "Camera Beast with Great Performance" ,
+						"camera_type": "Single Camera with best reviews ever!!" ,
+						"main_features": [
+							"12MP Camera",
+							"6.0in screen with 1440 X 2880 pixels",
+							"4GB RAM with Snapdragon 835",
+							"3520MAh Battery"
+						],
+						"Buy_Back_Guarantee_Value": 149 ,
+						"Rating": 4.8 ,
+						"Cost": 56470
+				}
+			]
+		},
+		{
+				"Laptops":[{
+						"Laptop_name": "XPS 13" ,
+						"CPU": "2,3Ghz Intel Core i5-6200U" ,
+						"Graphics": "Intel HD Graphics 520" ,
+						"RAM": "8GB LPDDR3" ,
+						"Screen": "13.3in QHD+ (3200 X 1800) InfinityEdge Touch Display" ,
+						"Storage": "256GB PCIe SSD" ,
+						"Ports": "1 x USB 3.0, 1 x USB 3.0 w/PowerShare, 1 x USB Type C and Thunderbolt 3, SD card reader, headset jack" ,
+						"Connectivity": "DW1820A 2x2 802.11ac 2.4/5GHz; Bluetooth 4.1" ,
+						"Camera": "720p widescreen HD webcam with dual array digital microphones" ,
+						"Weight": "2.93 pounds (1.32kg)" ,
+						"Size": "11.97 x 7.87 x 0.35 – 0.59 inches (W x D x H) (30.4 x 19.9 x 0.89-1.5mm)" ,
+						"Cost": 148999
+				},
+				{
+						"Laptop_name": "Inspiron 15 7000 Gaming" ,
+						"CPU": "2.5GHz Intel Core i5-7300HQ" ,
+						"Graphics": "Nvidia GeForce GTX 1060 (Max-Q, 6GB GDDR5); Intel HD Graphics 630" ,
+						"RAM": "8GB DDR4" ,
+						"Screen": "15.6-inch FHD (1,920 x 1,080) anti-glare LED-backlit" ,
+						"Storage": "256GB SSD" ,
+						"Ports": "3 x USB 3.1, 1 x Thunderbolt 3 (USB-C), HDMI 2.0, 2-in-1 SD/MMC card reader, RJ45 Ethernet, headphone/microphone jack" ,
+						"Connectivity": "802.11ac Wi-Fi (dual band 2.4GHz & 5GHz); Bluetooth 4.2" ,
+						"Camera": "Widescreen HD (720p) webcam with dual-array mic" ,
+						"Weight": "5.82 pounds (2.65kg)" ,
+						"Size": "15.31 x 10.82 x 0.98 inches (38.89 x 27.48 x 2.49cm; W x D x H)" ,
+						"Cost": 120000
+				},
+				{
+						"Laptop_name": "GS65 Stealth" ,
+						"CPU": "3.9GHz Intel Core i7-8750H" ,
+						"Graphics": "Nvidia GeForce GTX 1070 (8GB GDDR5, Max-Q)" ,
+						"RAM": "16GB DDR4" ,
+						"Screen": "15.6-inch FHD (1,920 x 1,080), anti-glare, wide view angle display (144Hz, 7ms response, 72% NTSC color gamut, 16:9)" ,
+						"Storage": "512GB SSD (M.2)" ,
+						"Ports": "USB 3.1 Gen2 x 3, Thunderbolt 3 (USB-C), miniDisplayPort, HDMI-out, RJ-45 Ethernet, 1/1 SPDIF (ESS Sabre HiFi)" ,
+						"Connectivity": " Killer N1550 Combo 802.11ac Wi-Fi (2x2 MIMO); Bluetooth 5.0" ,
+						"Camera": "720p HD webcam" ,
+						"Weight": "4.14 pounds (1.88kg)" ,
+						"Size": "14.08 x 9.75 x 0.69 inches (357.63 x 247.65 x 17.53mm; W x H x D)" ,
+						"Cost": "$1799"
+				},
+				{
+						"Laptop_name": "Air" ,
+						"CPU": "1.6GHz dual-core Intel Core i5 (Turbo Boost up to 2.7GHz) with 3MB shared L3 cache" ,
+						"Graphics": "Intel HD Graphics 6000" ,
+						"RAM": "8GB 1600MHz DDR3" ,
+						"Screen": "13.3-inch, LED-backlit glossy widescreen display (1440 x 900)" ,
+						"Storage": "256GB PCIe-based flash storage (configurable to 512GB flash storage)" ,
+						"Ports": "Two USB 3.0 ports (up to 5Gbps); Thunderbolt 2 port (up to 20Gbps); MagSafe 2 power port; SDXC card slot" ,
+						"Connectivity": "802.11ac Wi-Fi networking; IEEE 802.11a/b/g/n compatible; Bluetooth 4.0 wireless technology" ,
+						"Camera": "720p FaceTime HD camera" ,
+						"Weight": "1.35kg (2.96 pounds)" ,
+						"Size": "32.5 x 22.7 x 1.7 cm (W x D x H)" ,
+						"Cost": "$999"
+				}
+
+			]
+		},
+		{
+				"Printers":[{
+						"printer_name": "MG 2577s" ,
+						"Type": "Fine cartridge" ,
+						"Number of Nozzles": "1280 nozzles" ,
+						"Ink Droplet Size": "2pl" ,
+						"Ink End Sensor": "Dot count" ,
+						"Print Head Alignment": "Manual" ,
+						"Scanner Type": "Flatbed" ,
+						"Line Scanning Speed": "1.2ms per line at 300 DPI grayscale printing" ,
+						"Maximum Document Size": "A4" ,
+						"System Requirements": "Windows XP or newer and Mac OS X v10.7.5 or newer" ,
+						"Cost": 2599
+				},
+				{
+						"printer_name": "Pixma E470" ,
+						"Functions": "Scan, copy and printing" ,
+						"Interface": "USB" ,
+						"Input Tray Capacity": "Plain paper - 64-105 g/m2 , Canon specialty paper - max paper weight of approx. 275 g/m2 (Photo Paper Plus Glossy II (PP-201))" ,
+						"Other System Requirements": "Mac OS X v10.8.5 and Later" ,
+						"Printing Speed": "4.0ipm (Black)" ,
+						"Optical Sensor Resolution": "600 x 1200 DPI" ,
+						"Scan Type": "Flatbed" ,
+						"Scan Method": "CIS (Contact Image Sensor)" ,
+						"Compatible Cartridge": "CL-57S (Color) and PG-47 (Black)" ,
+						"Total Number of Nozzles": "1,280 nozzles" ,
+						"Printable Width": "Up to 203.2mm (8-inch)" ,
+						"Recommended Printing Area": "31.6mm (Top margin), 29.2mm (Bottom margin)" ,
+						"Printable Area": "Top margin - 3mm and bottom margin - 16.7mm with left/right margin - each 3.4mm (Letter/Legal: Left - 6.4mm and right - 6.3mm)" ,
+						"Cost": 5995
+				},
+				{
+						"printer_name": "DCP-T500W" ,
+						"Functions": "Print, scan and copy" ,
+						"Type": "Color inkjet" ,
+						"Connectivity": "USB 2.0 and Wi-Fi" ,
+						"Warranty": "On site - 12 months or 30000 pages" ,
+						"Screen Size": 10 ,
+						"Maximum Display Resolution": "Up to 1,200 x 6,000 dpi (Horizontal x Vertical)" ,
+						"Item Weight": "7.1 Kg" ,
+						"Product Dimensions": "43.5 x 37.4 x 16.1 cm" ,
+						"Cost": 9999
+				},
+				{
+						"printer_name": "Pixma Series" ,
+						"Colour": "Black" ,
+						"Item Height": "16.3 Centimeters" ,
+						"Item Width": "33 Centimeters" ,
+						"Maximum Display Resolution": "4800 (horizontal) x 1200 (vertical) dpi" ,
+						"Item Weight": "5.8 Kg" ,
+						"Product Dimensions": "44.5 x 33 x 16.3 cm" ,
+						"Item model number": "G3000" ,
+						"Wireless Type": "802.11n, 802.11G, 802.11B" ,
+						"Operating System":	"Windows, Canon PRINT Inkjet / SELPHY App (for iOS / Android)" ,
+						"Toll free number": "18002083366/18001803366" ,
+						"Cost": 11499
+				}
+			]
+		},
+		{
+				"HardDisks":[{
+						"disk_name": "My Passport 4TB Portable External Hard Drive" ,
+						"Memory Storage Capacity": "4 GB" ,
+						"Digital Storage Capacity":	"4 TB" ,
+						"Hard Drive Size": "4000 GB" ,
+						"Hard Drive Interface": "USB 2.0/3.0" ,
+						"Hardware Platform": "PC, Mac" ,
+						"Hardware Interface": "USB 3.0" ,
+						"Data Transfer Rate": "1MB/s" ,
+						"Cost": 9199
+				},
+				{
+						"disk_name": "Expansion 2TB Portable External Hard Drive" ,
+						"Memory Storage Capacity": "2 GB" ,
+						"Digital Storage Capacity":	"2 TB" ,
+						"Hard Drive Size": "2000 GB" ,
+						"Hard Drive Interface": "USB 2.0/3.0" ,
+						"Hardware Platform": "PC, Mac" ,
+						"Hardware Interface": "USB 3.0" ,
+						"Data Transfer Rate": "2MB/s",
+						"Cost": 5799
+				},
+				{
+						"disk_name": "Canvio Basics 2TB USB 3.0 Portable External Hard Drive" ,
+						"Colour": "black" ,
+						"Item Height": "21 Millimeters" ,
+						"Item Width": "7.9 Centimeters" ,
+						"Item Weight": "290 g" ,
+						"Product Dimensions": "11.9 x 7.9 x 2.1 cm" ,
+						"Item model number": "HDTB320AK3CA" ,
+						"Hard Drive Size": "2 TB" ,
+						"Cost": 5499
+				},
+				{
+						"disk_name": "Maxtor Slimline M3 1TB USB3.0 Portable Hard Drive" ,
+						"Series": "M101TCBM" ,
+						"Item Height": "18 Millimeters" ,
+						"Item Width": "8.2 Centimeters" ,
+						"Item Weight": "150 g" ,
+						"Product Dimensions": "11.2 x 8.2 x 1.8 cm" ,
+						"Item model number": "STSHX-M101TCBM" ,
+						"Hard Drive Size": "1 TB" ,
+						"Cost": 3299
+				}
+			]
+		}	
+	]
+}

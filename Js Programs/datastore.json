@@ -1,0 +1,333 @@
+{
+	"men'sClothing": [{
+			"Tshirts": [{
+					"collar-Type": "V-neck",
+					"Fabric": "cotton",
+					"description": "High qualtiy premium printed Se;f Design V-neck Tshirts direct from the manufacturers",
+					"pattern": "Printed",
+					"sleeve": "Half Sleeve",
+					"suitableFor": "Western Wear",
+					"fit": "Regualr",
+					"size": [
+						"small",
+						"Medium",
+						"Large"
+
+					],
+					"Rating": 4.2
+				},
+
+				{
+
+					"collar-Type": "Round Neck",
+					"Fabric": "cotton",
+					"description": "High qualtiy premium printed Self Design Round Neck Tshirts direct from the manufacturers",
+					"pattern": "Graphic printed",
+					"sleeve": "Full Sleeve",
+					"suitableFor": "Western Wear",
+					"fit": "Slim",
+					"size": [
+						"small",
+						"Medium",
+						"Large"
+					],
+					"sleeveType": "Narrow",
+					"Rating": 4.2
+				},
+
+				{
+					"collar-Type": "Polo",
+					"Fabric": "Polyster",
+					"Brand": "John Player",
+					"description": "High qualtiy premium printed Se;f Design V-neck Tshirts direct from the manufacturers",
+					"pattern": "Solid",
+					"sleeve": "Short Sleeve",
+					"sleeveType": "Narrow",
+					"reversible": "No",
+					"secondaryColor": "White",
+					"suitableFor": "Western Wear",
+					"fit": "Regualr",
+					"size": [
+						"small",
+						"Medium",
+						"Large"
+
+					],
+					"Rating": 4.2
+				},
+				{
+
+					"collar-Type": "Henley",
+					"Fabric": "cotton",
+					"Brand": "Status Quo",
+					"description": "High qualtiy premium printed Se;f Design V-neck Tshirts direct from the manufacturers",
+					"pattern": "Solid",
+					"sleeve": "Full Sleeve",
+					"sleeveType": "Narrow",
+					"reversible": "No",
+					"secondaryColor": "White",
+					"suitableFor": "Western Wear",
+					"fit": "Slim",
+					"size": [
+						"small",
+						"Medium",
+						"Large"
+
+					],
+					"Rating": 4.2
+				},
+				{
+					"collar-Type": "Hooded",
+					"Fabric": "cotton",
+					"Brand": "Kay Dee",
+					"description": "High qualtiy premium printed Se;f Design V-neck Tshirts direct from the manufacturers",
+					"pattern": "Solid",
+					"sleeve": "Full Sleeve",
+					"sleeveType": "Narrow",
+					"reversible": "No",
+					"secondaryColor": "White",
+					"suitableFor": "Western Wear",
+					"fit": "Slim",
+					"size": [
+						"small",
+						"Medium",
+						"Large"
+
+					],
+					"Rating": 4.2
+				}
+			]
+		}, {
+
+			"shirtsList": [
+
+				{
+ 					"style": "Casual",
+					"Fabric": "Cotton",
+					"sleeve": "Full Sleeve",
+					"pattern": "Printed",
+					"Brand": "Flying mavchine",
+					"collar": "Spread",
+					"Fit": "Slim",
+					"colsure": "Button"
+				},
+				{
+					"style": "Formal",
+					"Fabric": "Cotton",
+					"sleeve": "Full Sleeve",
+					"pattern": "Printed",
+					"Brand": "Peter England",
+					"collar": "Spread",
+					"Fit": "Slim",
+					"colsure": "Button"
+				},
+				{
+					"style": "Party",
+					"Fabric": "Denim",
+					"sleeve": "Full Sleeve",
+					"pattern": "Printed",
+					"Brand": "Highlander",
+					"collar": "Mandarin collar",
+					"Fit": "Slim",
+					"colsure": "Button"
+
+
+				}
+
+
+
+			]
+		},
+		{
+
+			"denim": [
+
+				{
+					"Fit": "Slim",
+					"fabric": "Cotton Ploy Elastane",
+					"rise": "Low Rise",
+					"faded": "Light Fade",
+					"brand": "Numero Uno"
+
+
+
+				},
+				{
+
+					"Fit": "Skinny",
+					"fabric": "Cotton Stretch",
+					"rise": "Low Rise",
+					"faded": "Heavy fade",
+					"brand": "Numero Uno",
+					"Fly": "Zipper"
+				},
+				{
+					"Fit": "Regualar",
+					"fabric": "Cotton,Spandex",
+					"rise": "Mild Rise",
+					"faded": "Heavy fade",
+					"brand": "Wrangler",
+					"Fly": "Zipper"
+				}
+			]
+		},
+		{
+
+
+
+			"trouser": [{
+					"trouserType": "Casual chinos",
+					"fit": "Regular",
+					"pattern": "Solid",
+					"ocassion": "Causual",
+					"fabric": "Cotton",
+					"brand": "Highlander",
+					"price": 700
+				},
+				{
+					"trouserType": "Casual chinos",
+					"fit": "Slim",
+					"pattern": "Solid",
+					"ocassion": "Causual",
+					"fabric": "Cotton Lycra Blend",
+					"brand": "john players",
+					"price": 700
+
+
+
+				},
+				{
+
+					"trouserType": "Casual chinos",
+					"fit": "Slim",
+					"pattern": "Solid",
+					"ocassion": "Casual",
+					"fabric": "Cotton",
+					"brand": "Levis",
+					"Fly": "Zipper",
+					"price": 700
+				}
+
+			]
+		},
+		{
+			"Blazers":[
+				{
+					"type":"Single Breasted",
+					"fit":"NeoSslimFit",
+					"fabric":"65% Polyster35%Viscose",
+					"pattern":"Solid",
+					"ocassion":"Formal",
+					"sleeve":"Full sleeve",
+					"vents":"Double vents at Back",
+					"closure":"Button",
+					"fabricCare":"Dry Clean",
+					"brand":"Peter England"
+                },
+                {
+                	"type":"Single Breasted",
+					"fit":"NeoSslimFit",
+					"fabric":"65% Polyster35%Viscose",
+					"pattern":"Solid",
+					"ocassion":"Formal",
+					"sleeve":"Full sleeve",
+					"vents":"Double vents at Back",
+					"closure":"Button",
+					"fabricCare":"Dry Clean",
+					"brand":"Peter England"
+				},
+				{
+					"type":"Single Breasted",
+					"fit":"NeoSslimFit",
+					"fabric":"65% Polyster35%Viscose",
+					"pattern":"Solid",
+					"ocassion":"Formal",
+					"sleeve":"Full sleeve",
+					"vents":"Double vents at Back",
+					"closure":"Button",
+					"fabricCare":"Dry Clean",
+					"brand":"Peter England"
+
+
+
+
+				}
+			
+              
+
+			]
+			
+            },
+            {
+            	"waistCoat":[
+            		{
+            			"color":"Black",
+            			"fabric":"Poly-Viscgose",
+            			"pattern":"Solid",
+            			"fit":"Slim fit",
+            			"description":"Dressing Men since 1991.Known for exceptional craftsmanship and contemporary tailoring.This waist coat can be Worn to formal and informal ocassions alike0"
+            		},
+            		{
+            			"color":"Black",
+            			"fabric":"Poly-Viscgose",
+            			"pattern":"Solid",
+            			"fit":"Slim fit",
+            			"description":"Dressing Men since 1991.Known for exceptional craftsmanship and contemporary tailoring.This waist coat can be Worn to formal and informal ocassions alike0"
+                    },
+                    {
+                    	"color":"Black",
+            			"fabric":"Poly-Viscgose",
+            			"pattern":"Solid",
+            			"fit":"Slim fit",
+            			"description":"Dressing Men since 1991.Known for exceptional craftsmanship and contemporary tailoring.This waist coat can be Worn to formal and informal ocassions alike0"
+            			 }
+
+                    ]
+            },
+            {
+            	"suits":[
+            		{
+            			"fit":"Regualr",
+            			"brand":"Louis Philippe",
+            			"ocassion":"Formal",
+            			"pattern":"Solid",
+            			"type":"2 Piece Suit",
+            		"trouserDetails":{
+            			"fly":"Zip",
+            			"beltLoops":"yes"
+            		},
+            		"price":5000
+                  },
+                  {
+                  	"fit":"Regualr",
+            			"brand":"Arrow",
+            			"ocassion":"Formal",
+            			"pattern":"Solid",
+            			"type":"2 Piece Suit",
+            		"trouserDetails":{
+            			"fly":"Zip",
+            			"beltLoops":"yes"
+            		},
+
+            		"price":3000
+                    },
+
+                    {
+
+                  	"fit":"Regualr",
+            			"brand":"Peter England",
+            			"ocassion":"Formal",
+            			"pattern":"Solid",
+            			"type":"2 Piece Suit",
+            		"trouserDetails":{
+            			"fly":"Zip",
+            			"beltLoops":"yes"
+            			 },
+            			 "price":2000
+                }
+
+                ]
+       }
+
+	]
+}
