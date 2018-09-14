@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0,
+	user-scalable=no">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="index.css">
+	<title>WhatsApp</title>
+	<style>
+        .form-control:focus{border-color: #5cb86c;  box-shadow: none; -webkit-box-shadow: none;}
+        .has-error .form-control:focus{box-shadow: none; -webkit-box-shadow: none;}
+    </style>
+
+</head>
+
+<body>
+
+	<script type="text/javascript">
+        function showChat() {
+    document.getElementById('chatArea').scrollIntoView();
+    }
+    </script>
+
+	<nav class="navbar navbar-expand-sm navbar-light" style="background: #0dc94e;">
+	  <a class="navbar-brand" href="index.html">
+	  	<img src="myImage.jpg" width="50" height="50" alt="" style="border-radius: 50%">
+	  	WhatsApp
+	  </a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+	    <span class="navbar-toggler-icon"></span>
+	  </button>
+
+	  <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+	    <ul class="navbar-nav">
+	      <li class="nav-item active">
+	        <a class="nav-link" href="index.html">Home</a>
+	      </li>
+	      <li class="nav-item">
+	        <a class="nav-link" href="profile.html">Profile</a>
+	      </li>
+	    </ul>
+	  </div>
+	</nav>
+
+	<div class="container-fluid">
+		<div class="row">
+		<div class="col-md-4 chatList">
+		<ul class="list-unstyled">
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="lucy.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Lucy</h5>
+		      <p>Em dng?</p>
+		    </div>
+		    <div class="col-2">
+                <span class="badge badge-danger">1</span>
+            </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Vishnu</h5>
+		      <p>When will you come?</p>
+		    </div>
+		    <div class="col-2">
+                <span class="badge badge-danger">2</span>
+            </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="rakesh.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Rakesh</h5>
+		      <p>I am playing.</p>
+		    </div>
+		    <div class="col-2">
+                <span class="badge badge-danger">2</span>
+            </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Harsha</h5>
+		      <p>Are you in your room?</p>
+		    </div>
+		    <div class="col-2">
+                <span class="badge badge-danger">4</span>
+            </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Vihaan</h5>
+		      <p>Send me your pics.</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Dad</h5>
+		      <p>What's status of last transaction?</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Sister</h5>
+		      <p>Ok sis. Byee.. Ttyl.</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="pavan.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Pavan</h5>
+		      <p>Let's go.</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Chintu</h5>
+		      <p>I Don't Know.</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Dusky</h5>
+		      <p>How are you?</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		  <li class="media" style="padding-top: 1vw" onclick="showChat()">
+		    <img class="mr-2 ml-2 d-block image" src="blank.jpg" alt="Generic placeholder image">
+		    <div class="container">
+		    <div class="row">
+		    <div class="media-body col-10">
+		      <h5 class="mt-0 mb-1">Vasu...</h5>
+		      <p>Hello Vasu!</p>
+		    </div>
+			</div>
+			<hr class="mt-0 mb-0">
+			</div>
+		  </li>
+		</ul>
+		</div>
+
+		<div class="col-md-8" style="background: white;padding: 0" id="chatArea">
+			<div class="container-fluid">
+				<div class="row" style="height: 7vh;background: #f0e9e3">
+					<img class=" ml-2 d-block image" width="45" height="45" src="blank.jpg" alt="Generic placeholder image" style="align-self: center;">
+                        <h5 class="mt-3 ml-4">Sister</h5>
+				</div>
+				<div class="row" style="height: 73vh;background: white;overflow-y: scroll">
+					<div class="container">
+						<div class=" mt-2 d-flex flex-row-reverse">
+                                <div class="p-2 chatMsg">Where are you?</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse ">
+                                <div class="p-2 chatMsg">It's been many days.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row ">
+                                <div class="p-2 chatMsg">I am fine. What about you? Iam at my home.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse ">
+                                <div class="p-2 chatMsg">Iam good.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse ">
+                                <div class="p-2 chatMsg">How is Vihaan?</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row">
+                                <div class="p-2 chatMsg">He is super.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row">
+                                <div class="p-2 chatMsg">How is your study?</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse">
+                                <div class="p-2 chatMsg">It's average.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row">
+                                <div class="p-2 chatMsg">Why so?</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse">
+                                <div class="p-2 chatMsg">Many things are getting in.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row">
+                                <div class="p-2 chatMsg">Ohh. Then be concentrated.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse">
+                                <div class="p-2 chatMsg">Trying sis.</div>
+                        </div>
+                        <div class=" mt-2 d-flex flex-row-reverse">
+                                <div class="p-2 chatMsg">Ok sis. Byee.. Ttyl.</div>
+                        </div>
+					</div>
+				</div>
+				<div class="row" style="background: #f0e9e3; height: 10vh">
+					<div class="md-0 ml-2 mr-0  form-group col-md-10 col-sm-10 col-8" style="margin: auto;">
+						<input type="text" class="form-control" id="inputEmail4" placeholder="Message">
+					</div>
+					<div class="ml-0 form-group col-md-1 col-sm-1 col-2" style="margin: auto">
+						<button type="button" class="btn btn-success">Send</button>
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+
+		</div>
+		
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+</html>
